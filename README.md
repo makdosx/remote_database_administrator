@@ -4,7 +4,7 @@ This is a emulator for remote managment mysql databases
 Details:
 
 1) Remote access
-2) Run all swl queries (select,insert,update etc)
+2) Run all sql queries (select,insert,update etc)
 3) You can see your data liver
 
 
